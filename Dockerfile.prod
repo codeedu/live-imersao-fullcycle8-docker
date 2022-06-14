@@ -1,0 +1,11 @@
+FROM node:14.17.0-slim
+
+WORKDIR /home/node/app
+
+COPY . .
+
+RUN npm install
+
+USER node
+
+CMD [ "node", "/home/node/app/index.js" ]
