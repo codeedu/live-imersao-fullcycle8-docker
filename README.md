@@ -3,7 +3,7 @@
 Participe gratuitamente: https://imersao.fullcycle.com.br/
 
 ## Sobre o repositório
-Esse repositório contém o código-fonte ministrado na aula Como criar API com Next.js integrando com outros sistema: [https://www.youtube.com/watch?v=62jN36WLBLk](https://www.youtube.com/watch?v=62jN36WLBLk)
+Esse repositório contém o código-fonte ministrado na aula Docker do Zero a Produção: [https://www.youtube.com/watch?v=62jN36WLBLk](https://www.youtube.com/watch?v=62jN36WLBLk)
 
 ## Rodar a aplicação
 
